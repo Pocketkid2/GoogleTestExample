@@ -1,4 +1,5 @@
-# GoogleTestExample [![Actions Status: CMake Tests](https://github.com/Pocketkid2/GoogleTestExample/workflows/CMake%20Tests/badge.svg)](https://github.com/Pocketkid2/GoogleTestExample/actions?query=workflow%3A"CMake+Tests")
+# GoogleTestExample  ![Cmake Tests](https://github.com/Pocketkid2/GoogleTestExample/actions/workflows/cmake.yml/badge.svg)
+
 
 An example of an extremely basic C++ library (exponent with unsigned 64 bit integers) that uses GoogleTest unit testing framework 
 
